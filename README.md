@@ -1,11 +1,11 @@
 # Spike train analysis 
 
-Analyzing spike trains of ganglion cells recorded from mouse retina using a high-density multi-electrode array with 4096 electrodes. These codes were partly used for analysis of our [publication](Hilgen et al. - 2017 - Scientific Reports.pdf). 
+Analyzing spike trains of ganglion cells recorded from mouse retina using a high-density multi-electrode array with 4096 electrodes. These codes were partly used for analysis of our [publication](https://github.com/pirmoradian/retina/blob/master/Hilgen%20et%20al.%20-%202017%20-%20Scientific%20Reports.pdf). 
 
 ## Code description
 
 * firingrate.ipynb: Computing firing rates of ganglion cells, including PSTH and raster plots
-* sta.ipynb: analyzing spike-triggered average of ganglion cells 
+* sta.ipynb: Computing the spike-triggered average of ganglion cells 
 
 ## Developer
 
@@ -19,5 +19,5 @@ G. Hilgen*, S. Pirmoradian*, D. Pamplona, B. Cessac, M. H. Hennig, E. Sernagor, 
 
 ## Acknowledgments
 
-These scripts were writen as part of [RENVISION](https://www.renvision-fp7.eu) project, a European project aimed to deciphere the biological processing of visual information in the retina
+These scripts were writen as part of the [RENVISION](https://www.renvision-fp7.eu) project, a European project aimed to deciphere the biological processing of visual information in the retina
 
